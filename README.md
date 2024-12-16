@@ -2,7 +2,7 @@
 
 ## **Configuration**
 
-![Static Routing Configuration](https://github.com/Proyek-Jarkomlan/DynamicRouting/blob/main/assets/Dynamic%20Routing.jpg?raw=true)
+![Dynamic Routing Configuration](https://github.com/Proyek-Jarkomlan/DynamicRouting/blob/main/assets/Dynamic%20Routing.jpg?raw=true)
 
 ## **Steps**
 1. Clone this repository:
