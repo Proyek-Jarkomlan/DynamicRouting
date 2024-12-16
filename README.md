@@ -21,4 +21,5 @@
    ```bash
    link r1 r2 down
    h1 traceroute -I h2
+6. If you have successfully traceroute, the project is successful.
    
