@@ -14,9 +14,6 @@
 3. Run the project with this command:
    ```bash
    sudo python3 dynamic-routing.py -c frr-config
-3. Run the project with this command:
-   ```bash
-   sudo python3 static-routing-2rtr.py -c frr-config
 4. Run this command to test the project:
    ```bash
    h1 traceroute -I h2
